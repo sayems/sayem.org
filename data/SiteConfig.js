@@ -4,7 +4,7 @@ const config = {
   siteTitleAlt: 'Syed Sayem',
   siteLogo: '/logos/sayem.jpg',
   siteUrl: 'https://www.sayem.org',
-  repo: 'https://github.com/sayems.github.io',
+  repo: 'https://github.com/sayems/sayem.org',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',

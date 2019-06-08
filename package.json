@@ -3,7 +3,7 @@
   "description": "Personal website running on Gatsby, React, and Node.js.",
   "version": "1.0.1",
   "author": "Syed Sayem <syed@sayem.org>",
-  "repository": "git@github.com:sayems/sayems.github.io",
+  "repository": "https://github.com/sayems/sayem.org",
   "dependencies": {
     "disqus-react": "^1.0.5",
     "gatsby": "2.1.23",

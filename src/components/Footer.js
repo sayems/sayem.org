@@ -15,7 +15,7 @@ export default class Footer extends Component {
           RSS
         </a>
         <a
-          href="https://github.com/sayems/sayems.github.io"
+          href="https://github.com/sayems/sayem.org"
           target="_blank"
           rel="noopener noreferrer"
         >
