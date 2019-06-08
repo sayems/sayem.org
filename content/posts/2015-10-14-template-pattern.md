@@ -2,7 +2,7 @@
 date: 2015-10-14
 title: "Template pattern"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 

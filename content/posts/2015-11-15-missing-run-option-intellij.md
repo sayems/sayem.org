@@ -2,7 +2,7 @@
 date: 2015-11-15
 title: "Missing Run/Debug option in IntelliJ IDEA"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - General
 

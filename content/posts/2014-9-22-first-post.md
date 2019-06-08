@@ -3,6 +3,7 @@ date: 2014-09-22
 title: "It's time..."
 template: post
 thumbnail: ../thumbnails/writing.png
+slug: first-post
 categories:
   - General
 

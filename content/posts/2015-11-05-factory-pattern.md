@@ -2,7 +2,7 @@
 date: 2015-11-05
 title: "Factory pattern"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 

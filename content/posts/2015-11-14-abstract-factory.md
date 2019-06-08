@@ -2,7 +2,7 @@
 date: 2015-11-14
 title: "Abstract Factory pattern"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 

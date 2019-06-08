@@ -2,7 +2,7 @@
 date: 2016-02-05
 title: "Setup printer in Arch Linux"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/arch.png
 categories:
   - Linux
 

@@ -2,7 +2,7 @@
 date: 2015-12-15
 title: "Java Generic Builder Pattern"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 

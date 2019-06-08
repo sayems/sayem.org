@@ -2,7 +2,7 @@
 date: 2015-11-22
 title: "Java 8 Lambda assertion"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 

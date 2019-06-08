@@ -2,7 +2,7 @@
 date: 2015-09-13
 title: "Fluent Interface"
 template: post
-thumbnail: ../thumbnails/writing.png
+thumbnail: ../thumbnails/java.png
 categories:
   - Java
 
