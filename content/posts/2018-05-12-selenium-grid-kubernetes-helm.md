@@ -3,6 +3,7 @@ date: 2018-05-12
 title: "Running Selenium grid on Kubernetes cluster using Helm package manager"
 template: post
 thumbnail: ../thumbnails/selenium.png
+slug: selenium-grid-kubernetes-helm
 categories:
   - Kubernetes
   - Selenium

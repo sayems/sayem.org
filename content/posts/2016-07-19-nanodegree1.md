@@ -3,6 +3,7 @@ date: 2016-07-19
 title: "Android Basics Nanodegree Certificate"
 template: post
 thumbnail: ../thumbnails/android.png
+slug: nanodegree1
 categories:
   - Android
 

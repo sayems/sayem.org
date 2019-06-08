@@ -3,6 +3,7 @@ date: 2015-11-05
 title: "Factory pattern"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: factory-pattern
 categories:
   - Java
 

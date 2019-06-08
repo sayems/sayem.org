@@ -3,6 +3,7 @@ date: 2015-08-12
 title: "Immutables Library Examples"
 template: post
 thumbnail: ../thumbnails/writing.png
+slug: immutable
 categories:
   - Java
 

@@ -3,6 +3,7 @@ date: 2015-09-13
 title: "Fluent Interface"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: fluent-interface
 categories:
   - Java
 

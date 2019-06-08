@@ -3,6 +3,7 @@ date: 2018-06-10
 title: "Running GUI Applications in LXD Containers"
 template: post
 thumbnail: ../thumbnails/lxd.png
+slug: selenium-grid-kubernetes-helm
 categories:
   - LXD
   - Ansible

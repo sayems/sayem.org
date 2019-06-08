@@ -3,6 +3,7 @@ date: 2016-07-17
 title: "Android Nanodegree scholarship"
 template: post
 thumbnail: ../thumbnails/android.png
+slug: scholarship
 categories:
   - Android
 

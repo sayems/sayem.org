@@ -3,6 +3,7 @@ date: 2015-08-06
 title: "Ignoring third-party Libraries While Debugging in IntelliJ "
 template: post
 thumbnail: ../thumbnails/writing.png
+slug: intellij-step-into
 categories:
   - General
 

@@ -3,6 +3,7 @@ date: 2016-02-05
 title: "Setup printer in Arch Linux"
 template: post
 thumbnail: ../thumbnails/arch.png
+slug: arch-linux-printer
 categories:
   - Linux
 

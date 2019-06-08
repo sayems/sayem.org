@@ -3,6 +3,7 @@ date: 2019-02-01
 title: "Multi-node Kubernetes cluster with Vagrant and Ansible"
 template: post
 thumbnail: ../thumbnails/kubernetes.png
+slug: multi-node-k8s-cluster-with-vagrant
 categories:
   - Kubernetes
   - Vagrant

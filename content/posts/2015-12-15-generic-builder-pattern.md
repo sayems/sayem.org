@@ -3,6 +3,7 @@ date: 2015-12-15
 title: "Java Generic Builder Pattern"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: generic-builder-pattern
 categories:
   - Java
 

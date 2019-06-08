@@ -3,6 +3,7 @@ date: 2016-07-15
 title: "Udacity Android Courses"
 template: post
 thumbnail: ../thumbnails/android.png
+slug: udacity-android-courses
 categories:
   - Android
 

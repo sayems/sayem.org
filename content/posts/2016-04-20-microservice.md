@@ -3,6 +3,7 @@ date: 2016-04-20
 title: "Microservice testing"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: microservice
 categories:
   - Java
   - Microservices

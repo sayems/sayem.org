@@ -3,6 +3,7 @@ date: 2015-10-14
 title: "Template pattern"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: template-pattern
 categories:
   - Java
 

@@ -3,6 +3,7 @@ date: 2016-09-10
 title: "Selenium Page Object in Golang"
 template: post
 thumbnail: ../thumbnails/selenium.png
+slug: selenium-pageobject-golang
 categories:
   - Golang
   - Selenium

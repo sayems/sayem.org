@@ -3,6 +3,7 @@ date: 2019-05-11
 title: "Kubernetes cluster on AWS EKS"
 template: post
 thumbnail: ../thumbnails/kubernetes.png
+slug: kubernetes-cluster-on-aws-eks
 categories:
   - Kubernetes
   - AWS

@@ -3,6 +3,7 @@ date: 2019-04-05
 title: "Kubernetes cluster on AWS with kops and Terraform"
 template: post
 thumbnail: ../thumbnails/kubernetes.png
+slug: k8s-cluster-on-aws-with-kops-and-terraform
 categories:
   - Kubernetes
   - AWS

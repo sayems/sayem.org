@@ -3,6 +3,7 @@ date: 2016-01-10
 title: "Audiobook"
 template: post
 thumbnail: ../thumbnails/writing.png
+slug: list-of-books
 categories:
   - Books
 

@@ -3,6 +3,7 @@ date: 2016-05-10
 title: "Learning with Treehouse"
 template: post
 thumbnail: ../thumbnails/treehouse.png
+slug: treehouse
 categories:
   - Learning
 

@@ -3,6 +3,7 @@ date: 2015-11-01
 title: "Factory method pattern"
 template: post
 thumbnail: ../thumbnails/java.png
+slug: factory-method-pattern
 categories:
   - Java
 
