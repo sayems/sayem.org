@@ -108,7 +108,7 @@ $accent-button-color-hover: #ffffff;
 /* Forms */
 
 $forms: (
-  '[type=color], [type=date], [type=email], [type=number], [type=search], [type=text], [type=url], select, textarea'
+        '[type=color], [type=date], [type=email], [type=number], [type=search], [type=text], [type=url], select, textarea'
 );
 $buttons: ('.button, a.button, button, [type=submit], [type=button]');
 $input-background: #ffffff;
