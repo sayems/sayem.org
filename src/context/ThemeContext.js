@@ -11,7 +11,7 @@ const ThemeContext = React.createContext(defaultState);
 
 class ThemeProvider extends Component {
     state = {
-        dark: true,
+        dark: false,
         notFound: false,
     };
 
