@@ -1,0 +1,9 @@
+securitytxt.org
+
+# If you would like to report a security issue
+# you can report it to me on e-mail.
+
+Contact: syed@sayem.org
+Acknowledgments: https://blog.sayem.org/contributors
+Preferred-Languages: en
+Canonical: https://blog.sayem.org/security.txt

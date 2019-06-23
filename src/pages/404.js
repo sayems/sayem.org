@@ -1,52 +1,76 @@
-import React, {Component} from 'react'
-import Helmet from 'react-helmet'
-import ThemeContext from '../context/ThemeContext'
-import Layout from '../layout'
+import React from 'react'
+import styled from '@emotion/styled'
+import { Link } from 'gatsby'
+import { css } from '@emotion/core'
+import Layout from '../components/layout'
 import SEO from '../components/SEO'
-import config from '../../data/SiteConfig'
 
-export default class NotFoundPage extends Component {
-    static contextType = ThemeContext;
+const Ascii = styled.div`
+  width: 100%;
+  margin-top: 15vh;
+  font-size: 8rem;
+  text-align: center;
+  color: var(--line);
+  font-family: 'IBM Plex Mono', monospace;
 
-    componentDidMount() {
-        const {setNotFound} = this.context;
+  @media (max-width: 600px) {
+    font-size: 100px;
+  }
 
-        setNotFound()
-    }
+  @media (max-width: 400px) {
+    font-size: 90px;
+  }
+`
 
-    componentWillUnmount() {
-        const {setFound} = this.context;
+const Err = styled.div`
+  /* font-family: 'IBM Plex Mono', monospace; */
+  font-size: 3.5rem;
+  line-height: 0.9;
+  padding-right: 1rem;
+  font-weight: 600;
+`
 
-        setFound()
-    }
+const Message = styled.div`
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  margin: 1rem auto 0;
+`
 
-    render() {
-        return (
-            <Layout>
-                <Helmet title={`Page not found – ${config.siteTitle}`}/>
-                <SEO/>
-                <div className="container">
-                    <div className="text-center">
-                        <h1>404</h1>
-                    </div>
-                    <p>
-                        A fatal exception 0E has occurred at <span className="sayem">0x74616e6961</span> in 404:
-                        page not found.
-                    </p>
-                    <div className="list">
-                        <p>
-                            <span className="bullet">*</span> Click any link to terminate the current application.
-                        </p>
-                        <p>
-                            <span className="bullet">*</span> Press ALT + F4 again to restart your browser. You
-                            will lose any unsaved information in all tabs.
-                        </p>
-                    </div>
-                    <p className="text-right">
-                        Click any link to continue<span className="blink">&#9608;</span>
-                    </p>
-                </div>
-            </Layout>
-        )
-    }
-}
+// const VerticalyCenter = styled.div`
+//   height: calc(100vh - 56px - 1rem - 4rem);
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   margin-top: -5rem;
+// `
+
+const emojis = ['(>_<)', '(·.·)', 'ಠ_ಠ', '(⊙_☉)', '(#^.^#)', '(~_~;)']
+
+export default () => (
+  <Layout>
+    <SEO title="Not found" />
+    <Ascii>{emojis[Math.floor(Math.random() * emojis.length)]}</Ascii>
+    <Message>
+      <Err>404</Err>
+      <div>
+        Page was not found.
+        <br />
+        Go back to
+        {' '}
+        <Link
+          to="/"
+          css={css`
+            font-weight: 600;
+          `}
+        >
+          Home
+        </Link>
+        .
+      </div>
+    </Message>
+  </Layout>
+)
+
+// (>_<) (·.·) ಠ_ಠ (⊙_☉)

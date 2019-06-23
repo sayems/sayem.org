@@ -1,0 +1,24 @@
+humanstxt.org
+
+/* TEAM */
+
+  Me: Syed Sayem
+  Site: https://blog.sayem.org/
+  Contact: syed@sayem.org
+  Twitter: @sayems
+  Location: New York, USA
+
+
+/* THANKS */
+
+  Stack Overflow for helping me fix rookie mistakes
+  Gatsby for making such great and easy tool for making awesome web pages
+
+
+/* SITE */
+
+  Last update: 2019/05/19
+  Standards: HTML5, CSS3, SVG
+  Components: Gatsby, React
+  Tools: Yarn
+  Software: VS Code
