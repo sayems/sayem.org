@@ -73,7 +73,7 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-google-analytics',
             options: {
-                trackingId: config.googleAnalyticsID,
+                trackingId: config.googleAnalyticsID || 'UA-XXXXXXXXX-X', // Fallback ID to prevent build errors
             },
         },
         {
@@ -179,6 +179,7 @@ module.exports = {
             }
           `,
                         output: config.siteRss,
+                        title: config.siteTitle, // Added title field
                     },
                 ],
             },
